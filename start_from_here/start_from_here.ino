@@ -9,6 +9,12 @@
  * 
  * LFO and ADSRs generated in software, VCOs, VCF, VCA all hardware
  * 
+ * ^^^^^^^ MESSAGE FOR NICK AND ALEJANDRO HERE ^^^^^^^
+ * 
+ * this file is from when I started messing around with programming, and everything
+ * about it is pretty trash. I didn't know about oop when I started this. there are 
+ * some things in here that I don't remember why I did it that way. Basically, it's 
+ * just a really really rough starting point.
  */
 
 #include <Encoder.h>
